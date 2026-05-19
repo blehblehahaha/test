@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="2; url=https://www.youtube.com/watch?v=lCTRDUNoTp8&amp;list=RDlCTRDUNoTp8&amp;start_radio=1">
+  <title>System Check</title>
+</head>
+<body>
+  <h2>Running security check...</h2>
+  <p>Verifying browser session...</p>
+  <p>Checking if you are worthy...</p>
+  <p>Redirecting in 2 seconds.</p>
+
+  <a href="https://www.youtube.com/watch?v=lCTRDUNoTp8&amp;list=RDlCTRDUNoTp8&amp;start_radio=1">
+    Click here if nothing happens.
+  </a>
+</body>
+</html>
